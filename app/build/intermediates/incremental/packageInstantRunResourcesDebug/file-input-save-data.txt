@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jul 09 18:11:09 GST 2019
+#Tue Jul 09 20:31:29 GST 2019
 175.set=ANDROID_RESOURCE
 122.file=E\:\\Documents\\Android_Studio_Stuff\\NewsApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_cab_background_top_material.xml
 60.set=ANDROID_RESOURCE

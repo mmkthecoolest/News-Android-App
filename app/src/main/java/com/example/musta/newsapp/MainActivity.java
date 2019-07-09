@@ -146,15 +146,6 @@ public class MainActivity extends AppCompatActivity {
                 InputStreamReader inputStreamReader = new InputStreamReader(in);
                 BufferedReader b = new BufferedReader(inputStreamReader);
 
-//                int data = inputStreamReader.read();//keeps track of location of reader in HTML
-
-//                while (data != -1){//data keeps increasing as it goes on and after finishing has value of -1
-//                    char current = (char) data;
-//                    result += current;
-//
-//                    data = inputStreamReader.read();
-//                }
-
                 for (String line; (line = b.readLine()) != null; ) {
                     sb.append(line).append("\n");
                 }
@@ -176,10 +167,7 @@ public class MainActivity extends AppCompatActivity {
                 jsonObject = new JSONObject(s);
                 id = jsonObject.getString("id");
                 url = jsonObject.getString("url");
-
-//                jsonObject = new JSONObject(s);
-//                Log.i("JSON Object Info", jsonObject.toString());
-
+                //last line checks for URL
 
             } catch (JSONException e) {
                 e.printStackTrace();
