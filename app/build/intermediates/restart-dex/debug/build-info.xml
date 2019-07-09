@@ -5,33 +5,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="365339493916800"
+    timestamp="2347235784400"
     token="3748159685075268893"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="3793" />
+        duration="347" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2675" />
+        duration="48" />
     <task
         name="verifier"
-        duration="195" />
+        duration="4" />
 
     <artifact
-        location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="365339493916800"
+        timestamp="1464479593800"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="2347235784400"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

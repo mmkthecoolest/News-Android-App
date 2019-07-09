@@ -1,4 +1,4 @@
-#Mon Jul 08 20:03:42 GST 2019
+#Tue Jul 09 18:11:22 GST 2019
 base.0=E\:\\Documents\\Android_Studio_Stuff\\NewsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3288da21dda4c7a9e37b4b1008af3f15b705c7ad
 renamed.1=classes2.dex
 renamed.0=classes.dex

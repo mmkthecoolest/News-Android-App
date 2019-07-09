@@ -1,6 +1,9 @@
 package com.example.musta.newsapp;
 
 import android.app.Activity;
+import android.app.AlarmManager;
+import android.app.PendingIntent;
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
@@ -237,6 +240,16 @@ public class MainActivity extends AppCompatActivity {
             if(numArticles != intExtra){
                 numArticles = intExtra;
                 sharedPreferences.edit().putInt("savedNum", numArticles).apply();
+                //RESTART CODE FROM STACK OVERFLOW
+                //https://stackoverflow.com/a/17166729/10219333
+                Intent mStartActivity = new Intent(MainActivity.this, MainActivity.class);
+                int mPendingIntentId = 1;
+                PendingIntent mPendingIntent = PendingIntent.getActivity(MainActivity.this,
+                        mPendingIntentId, mStartActivity, PendingIntent.FLAG_CANCEL_CURRENT);
+
+                AlarmManager mgr = (AlarmManager) MainActivity.this.
+                        getSystemService(Context.ALARM_SERVICE);
+                mgr.set(AlarmManager.RTC, System.currentTimeMillis() + 100, mPendingIntent);
                 finish();
                 System.exit(0);
             }
