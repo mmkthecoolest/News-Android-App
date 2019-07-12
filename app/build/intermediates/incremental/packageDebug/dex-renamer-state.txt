@@ -1,4 +1,7 @@
-#Tue Jul 09 20:27:33 GST 2019
-base.0=E\:\\Documents\\Android_Studio_Stuff\\NewsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Wed Jul 10 17:30:47 GST 2019
+base.0=E\:\\Documents\\Android_Studio_Stuff\\NewsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3288da21dda4c7a9e37b4b1008af3f15b705c7ad
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=E\:\\Documents\\Android_Studio_Stuff\\NewsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=E\:\\Documents\\Android_Studio_Stuff\\NewsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c1934e0c99d7185c6d281e58d9cdca3b345817c7\\classes.dex
+base.1=E\:\\Documents\\Android_Studio_Stuff\\NewsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c1934e0c99d7185c6d281e58d9cdca3b345817c7
+file.0=E\:\\Documents\\Android_Studio_Stuff\\NewsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3288da21dda4c7a9e37b4b1008af3f15b705c7ad\\classes.dex

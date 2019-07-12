@@ -1,48 +1,82 @@
 -- Merging decision tree log ---
 manifest
 ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\1631d22e2c692a0a8c61fc5c534324c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\27eea8e91aeb8f4a6152ef57ce987d70\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\c7161163b98562a0d28da6495ebd266b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\12f7f148c1fd0cec83fc03eac6d10d06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\efd28415369bd2c679a3dc255950551e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\dca33162e434d5ceadea5e6ee74fe261\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\a46000a99f2f2de17758d27b4907e2e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\38900c85c794642799413fcfb35f8482\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\4b96b94bb688cb56f6fc74f9d2ad1d5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\9c0fc486523a287fea28d8bd6793bdf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\f04f1da658e0c9df2261d7048ff47452\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\fe5b4ff528cfa7a9cbe6d447c141724d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\20d823755611cf9313bb698fbc2f4f2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\dd89e39b10f4abb4c6ff2fc54f9f6ae7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\513459d95d5cf8ab08b90af2625a88a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\8828af47a4b3ff9b97fe2fa9250472e8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\458a1b14f6b3e48f8925948abb9d65ed\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\2460d4f44e10309e582c94573f9aa431\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\172b9d2003ab343cc85476301ee79928\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\f2152640bc7109e8ab6deb347fd6f419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\c187f8f85925c5f522a1680710b1a727\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\12171ada774697194b8e90b7b61510b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\55daca84dc2f7e5f3f514ea61e47200a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\a7a629952b1f947dc0fe0b0b48185fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\b1d65911cc5f8ecb82177d237e0d680b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\7616f314ea4a2568ac75d35a7380ee9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\be8f72cf509c49f2078eacfbf4437bbe\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
 		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:5:22-64
 application
 ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:7:5-22:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-	android:label
-		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:10:9-41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\27eea8e91aeb8f4a6152ef57ce987d70\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\27eea8e91aeb8f4a6152ef57ce987d70\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\8828af47a4b3ff9b97fe2fa9250472e8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\8828af47a4b3ff9b97fe2fa9250472e8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\458a1b14f6b3e48f8925948abb9d65ed\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\458a1b14f6b3e48f8925948abb9d65ed\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\8828af47a4b3ff9b97fe2fa9250472e8\AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:11:9-35
-	android:allowBackup
-		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:10:9-41
 	android:icon
 		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.example.musta.newsapp.MainActivity
 ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
 		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:13:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
 ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:15:17-69
@@ -62,34 +96,69 @@ ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifes
 		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml:21:19-45
 uses-sdk
 INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:20:5-44
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:23:9-75
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\1631d22e2c692a0a8c61fc5c534324c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\1631d22e2c692a0a8c61fc5c534324c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\27eea8e91aeb8f4a6152ef57ce987d70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\27eea8e91aeb8f4a6152ef57ce987d70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\c7161163b98562a0d28da6495ebd266b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\c7161163b98562a0d28da6495ebd266b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\12f7f148c1fd0cec83fc03eac6d10d06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\12f7f148c1fd0cec83fc03eac6d10d06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\efd28415369bd2c679a3dc255950551e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\efd28415369bd2c679a3dc255950551e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\dca33162e434d5ceadea5e6ee74fe261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\dca33162e434d5ceadea5e6ee74fe261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\a46000a99f2f2de17758d27b4907e2e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\a46000a99f2f2de17758d27b4907e2e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\38900c85c794642799413fcfb35f8482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\38900c85c794642799413fcfb35f8482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\4b96b94bb688cb56f6fc74f9d2ad1d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\4b96b94bb688cb56f6fc74f9d2ad1d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\9c0fc486523a287fea28d8bd6793bdf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\9c0fc486523a287fea28d8bd6793bdf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\f04f1da658e0c9df2261d7048ff47452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\f04f1da658e0c9df2261d7048ff47452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\fe5b4ff528cfa7a9cbe6d447c141724d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\fe5b4ff528cfa7a9cbe6d447c141724d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\20d823755611cf9313bb698fbc2f4f2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\20d823755611cf9313bb698fbc2f4f2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\dd89e39b10f4abb4c6ff2fc54f9f6ae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\dd89e39b10f4abb4c6ff2fc54f9f6ae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\513459d95d5cf8ab08b90af2625a88a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\513459d95d5cf8ab08b90af2625a88a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\8828af47a4b3ff9b97fe2fa9250472e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\8828af47a4b3ff9b97fe2fa9250472e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\458a1b14f6b3e48f8925948abb9d65ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\458a1b14f6b3e48f8925948abb9d65ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\2460d4f44e10309e582c94573f9aa431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\2460d4f44e10309e582c94573f9aa431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\172b9d2003ab343cc85476301ee79928\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\172b9d2003ab343cc85476301ee79928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\f2152640bc7109e8ab6deb347fd6f419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\f2152640bc7109e8ab6deb347fd6f419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\c187f8f85925c5f522a1680710b1a727\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\c187f8f85925c5f522a1680710b1a727\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\12171ada774697194b8e90b7b61510b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\12171ada774697194b8e90b7b61510b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\55daca84dc2f7e5f3f514ea61e47200a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\55daca84dc2f7e5f3f514ea61e47200a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\a7a629952b1f947dc0fe0b0b48185fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\a7a629952b1f947dc0fe0b0b48185fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\b1d65911cc5f8ecb82177d237e0d680b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\b1d65911cc5f8ecb82177d237e0d680b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\7616f314ea4a2568ac75d35a7380ee9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\7616f314ea4a2568ac75d35a7380ee9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\be8f72cf509c49f2078eacfbf4437bbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\musta\.gradle\caches\transforms-2\files-2.1\be8f72cf509c49f2078eacfbf4437bbe\AndroidManifest.xml:20:5-44
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Documents\Android_Studio_Stuff\NewsApp\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:26:9-47

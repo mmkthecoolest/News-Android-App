@@ -2,33 +2,6 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_823dc5abc36ccebb3384dabb9b90a3585ffd9fd7.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="28.0.3"
-        sha1="89e1a10025e7ba1a3086a3ce4ed3894a002e9cc6">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c1934e0c99d7185c6d281e58d9cdca3b345817c7\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_b5899217393bc19ef5856252f46ba7400a219163.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
         jumboMode="true"
@@ -36,15 +9,6 @@
         revision="28.0.3"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
         <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_823dc5abc36ccebb3384dabb9b90a3585ffd9fd7\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_b7e36af575845e726916a2101a0304d576620eb0.jar" />
     </item>
     <item
         is-multidex="true"
@@ -56,33 +20,6 @@
         <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_b7e36af575845e726916a2101a0304d576620eb0\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_98f4ddd63585b93a632018f6fa3ba1f82a62c945.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\musta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_3195984b4daa0944c1ab03be9c2199cf3be6e4d1.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="28.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_98f4ddd63585b93a632018f6fa3ba1f82a62c945\classes.dex" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\musta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="true"
@@ -90,60 +27,6 @@
         revision="28.0.3"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
         <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_3195984b4daa0944c1ab03be9c2199cf3be6e4d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_6903b39bb12943a465da737a67dd8372a1a35241.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="28.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_bdf9ed746e2b987b5c2a6c6743a560c0bd2aab3a\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_1bf85456fa72caca2f851aec6f1558c99be9302e.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="28.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_6903b39bb12943a465da737a67dd8372a1a35241\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_bdf9ed746e2b987b5c2a6c6743a560c0bd2aab3a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="28.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_2445a816ff3d18de4047ac0b4fecf6ee726842b6\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -169,17 +52,8 @@
         jumboMode="true"
         optimize="true"
         revision="28.0.3"
-        sha1="75ccf0a6ab382c378505a791c31a4acd62165778">
+        sha1="9fd3344cabed90e6795a97fea3a676fffa89fdd5">
         <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3288da21dda4c7a9e37b4b1008af3f15b705c7ad\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_cc2f268c4e58f821e0f600a1726111b546bea4c9.jar" />
     </item>
     <item
         is-multidex="true"
@@ -191,13 +65,49 @@
         <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_cc2f268c4e58f821e0f600a1726111b546bea4c9\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b60c9ade6392768cf8eb6909467b1875c005ec5a">
+        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c1934e0c99d7185c6d281e58d9cdca3b345817c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_98f4ddd63585b93a632018f6fa3ba1f82a62c945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_bdf9ed746e2b987b5c2a6c6743a560c0bd2aab3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_6903b39bb12943a465da737a67dd8372a1a35241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="28.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_2445a816ff3d18de4047ac0b4fecf6ee726842b6.jar" />
+        <dex dex="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_2445a816ff3d18de4047ac0b4fecf6ee726842b6\classes.dex" />
     </item>
 
 </items>

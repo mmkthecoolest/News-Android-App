@@ -1,114 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="24"
-    density="xxhdpi"
+    density="xxxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="9894777174600"
+    timestamp="85452230652000"
     token="3748159685075268893"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="505" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="58" />
     <task
         name="verifier"
-        duration="0" />
+        duration="2" />
 
     <artifact
-        location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="1464479593800"
+        timestamp="85452230652000"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="9751403679500"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_3195984b4daa0944c1ab03be9c2199cf3be6e4d1\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_cc2f268c4e58f821e0f600a1726111b546bea4c9\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_b5899217393bc19ef5856252f46ba7400a219163\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_823dc5abc36ccebb3384dabb9b90a3585ffd9fd7\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_2445a816ff3d18de4047ac0b4fecf6ee726842b6\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_b7e36af575845e726916a2101a0304d576620eb0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_6903b39bb12943a465da737a67dd8372a1a35241\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_1bf85456fa72caca2f851aec6f1558c99be9302e\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3288da21dda4c7a9e37b4b1008af3f15b705c7ad\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c1934e0c99d7185c6d281e58d9cdca3b345817c7\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_98f4ddd63585b93a632018f6fa3ba1f82a62c945\classes.dex"
-            type="DEX" />
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_bdf9ed746e2b987b5c2a6c6743a560c0bd2aab3a\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="9894777174600"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="E:\Documents\Android_Studio_Stuff\NewsApp\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
