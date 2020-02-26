@@ -230,16 +230,16 @@ public class MainActivity extends AppCompatActivity {
                 sharedPreferences.edit().putInt("savedNum", numArticles).apply();
                 //RESTART CODE FROM STACK OVERFLOW
                 //https://stackoverflow.com/a/17166729/10219333
-                Intent mStartActivity = new Intent(MainActivity.this, MainActivity.class);
-                int mPendingIntentId = 1;
-                PendingIntent mPendingIntent = PendingIntent.getActivity(MainActivity.this,
-                        mPendingIntentId, mStartActivity, PendingIntent.FLAG_CANCEL_CURRENT);
-
-                AlarmManager mgr = (AlarmManager) MainActivity.this.
-                        getSystemService(Context.ALARM_SERVICE);
-                mgr.set(AlarmManager.RTC, System.currentTimeMillis() + 100, mPendingIntent);
-                finish();
-                System.exit(0);
+//                Intent mStartActivity = new Intent(MainActivity.this, MainActivity.class);
+//                int mPendingIntentId = 1;
+//                PendingIntent mPendingIntent = PendingIntent.getActivity(MainActivity.this,
+//                        mPendingIntentId, mStartActivity, PendingIntent.FLAG_CANCEL_CURRENT);
+//
+//                AlarmManager mgr = (AlarmManager) MainActivity.this.
+//                        getSystemService(Context.ALARM_SERVICE);
+//                mgr.set(AlarmManager.RTC, System.currentTimeMillis() + 100, mPendingIntent);
+//                finish();
+//                System.exit(0);
             }
         }
 

@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.EditText;
 
 public class NumSetting extends AppCompatActivity {
@@ -21,13 +22,19 @@ public class NumSetting extends AppCompatActivity {
         editText.setText(Integer.toString(numArticles));
     }
 
-    @Override
-    public void onBackPressed() {
+//    @Override
+//    public void onBackPressed() {
+//
+//        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+//        intent.putExtra("number", Integer.valueOf(editText.getText().toString()));
+//        setResult(Activity.RESULT_OK, intent);
+//
+//        super.onBackPressed();
+//    }
 
+    public void save(View view){
         Intent intent = new Intent(getApplicationContext(), MainActivity.class);
         intent.putExtra("number", Integer.valueOf(editText.getText().toString()));
-        setResult(Activity.RESULT_OK, intent);
-
-        super.onBackPressed();
+//        setResult(Activity.RESULT_OK, intent);
     }
 }

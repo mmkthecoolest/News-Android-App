@@ -20,7 +20,7 @@
         android:layout_alignParentStart="true" />
 
     <TextView
-        android:text="Number of articles on display (restart will occur if changed). Press the back button to save setting."
+        android:text="Number of articles on display (restart will be required if changed)."
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/numArticles"
@@ -28,4 +28,13 @@
         android:id="@+id/textView"
         android:textSize="20sp"
         android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Save"
+        android:onClick="save"/>
 </RelativeLayout>
